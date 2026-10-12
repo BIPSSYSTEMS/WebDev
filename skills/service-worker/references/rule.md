@@ -257,7 +257,6 @@ Service workers intercept all matching requests. Caching responses that contain 
 
 - Open DevTools → **Application** → **Service Workers** and confirm the worker shows **Status: activated and running**.
 - Switch to **Offline** mode in the Network panel and reload the page — the app should load from cache or show the offline fallback.
-- Use **Lighthouse** → PWA audit and confirm the "Uses a service worker" check passes.
 
 ### Manual Checks
 
