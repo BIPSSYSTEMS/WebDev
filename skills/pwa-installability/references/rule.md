@@ -185,7 +185,7 @@ Safari on iOS does not support the `beforeinstallprompt` event. Users must manua
 ### Automated Checks
 
 - Open DevTools → **Application** → **Manifest** and confirm all required fields are green with no warnings.
-- Run a **Lighthouse** PWA audit and check that "Installable" criteria all pass.
+- Check the **Installability** section of the same pane, which lists anything that stops the browser from offering the install prompt. Lighthouse no longer audits this: its PWA category was removed in Lighthouse 12.
 - Use [PWABuilder](https://docs.pwabuilder.com/#/home/getting-started) to get a detailed installability report and generate store-ready packages.
 
 ### Manual Checks
