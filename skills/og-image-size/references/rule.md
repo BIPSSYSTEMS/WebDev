@@ -112,6 +112,7 @@ An incorrectly sized og:image is displayed poorly or not at all on social platfo
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) — shows exact image dimensions and warnings
 - [X Cards Getting Started](https://developer.x.com/en/docs/x-for-websites/cards/guides/getting-started)
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+- [MyOG Bulk OG Tag Checker](https://myog.social/tools/bulk-og-checker) — checks the first five pages in a sitemap and shows each `og:image` with its dimensions
 
 ### Manual Checks
 
