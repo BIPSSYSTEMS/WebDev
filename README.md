@@ -9,6 +9,7 @@
 [![Support via Open Collective](https://opencollective.com/front-end-checklist/sponsors/badge.svg)](https://opencollective.com/front-end-checklist)
 [![ProductHunt](https://img.shields.io/badge/ProductHunt-Launch-orange)](https://www.producthunt.com/products/front-end-checklist)
 [![MCP](https://img.shields.io/badge/MCP-Ready-6366f1)](https://modelcontextprotocol.io)
+[![Toolweather](https://toolweather.toolweather.workers.dev/badge/io.github.thedaviddias/front-end-checklist.svg)](https://toolweather.pages.dev/servers/io.github.thedaviddias--front-end-checklist/)
 
 </div>
 
